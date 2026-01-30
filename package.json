@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/stats-base-ztest-alternative-enum2str": "github:stdlib-js/stats-base-ztest-alternative-enum2str#main",
-    "@stdlib/stats-base-ztest-alternative-str2enum": "^0.1.0"
+    "@stdlib/stats-base-ztest-alternative-str2enum": "^0.1.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
