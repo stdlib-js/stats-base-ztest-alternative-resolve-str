@@ -1,25 +1,5 @@
+"use strict";var u=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var n=u(function(m,t){
+var i=require('@stdlib/stats-base-ztest-alternative-enum2str/dist'),s=require('@stdlib/stats-base-ztest-alternative-str2enum/dist');function o(e){var r=typeof e;return r==="string"?s(e)===null?null:e:r==="number"?i(e):null}t.exports=o
+});var f=n();module.exports=f;
 /** @license Apache-2.0 */
-
-'use strict';
-
-/**
-* Return the alternative hypothesis string associated with a supported Z-test alternative hypothesis value.
-*
-* @module @stdlib/stats-base-ztest-alternative-resolve-str
-*
-* @example
-* var str2enum = require( '@stdlib/stats-base-ztest-alternative-str2enum' );
-* var resolve = require( '@stdlib/stats-base-ztest-alternative-resolve-str' );
-*
-* var v = resolve( str2enum( 'greater' ) );
-* // returns 'greater'
-*/
-
-// MODULES //
-
-var main = require( './main.js' );
-
-
-// EXPORTS //
-
-module.exports = main;
+//# sourceMappingURL=index.js.map
