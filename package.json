@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-ztest-alternative-resolve-str",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Return the alternative hypothesis string associated with a supported Z-test alternative hypothesis value.",
   "license": "Apache-2.0",
   "author": {
@@ -37,11 +37,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/stats-base-ztest-alternative-enum2str": "github:stdlib-js/stats-base-ztest-alternative-enum2str#main",
-    "@stdlib/stats-base-ztest-alternative-str2enum": "^0.1.0"
+    "@stdlib/stats-base-ztest-alternative-enum2str": "^0.1.0",
+    "@stdlib/stats-base-ztest-alternative-str2enum": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/assert-is-string": "^0.2.2",
+    "@stdlib/assert-is-string": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
