@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/stats-base-ztest-alternative-enum2str": "^0.1.1",
-    "@stdlib/stats-base-ztest-alternative-str2enum": "^0.1.1"
+    "@stdlib/stats-base-ztest-alternative-str2enum": "^0.1.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.3",
